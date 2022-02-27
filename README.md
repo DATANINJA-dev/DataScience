@@ -1,2 +1,2 @@
 # DataScience
-DataScience git for UB Postgraduate course, demo to learn git.
+DataScience git for UB Postgraduate course, multiple exercises published here.
